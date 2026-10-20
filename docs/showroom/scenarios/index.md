@@ -1,6 +1,7 @@
 ---
 sidebar_position: -5
 title: Showroom Scenarios
+sidebar_label: Scenarios
 ---
 
 To be able to demonstrate the power of the Apeiro toolkit, we propose ways how to assemble a working environment out of the individual components.
@@ -47,6 +48,10 @@ We will add additional documentation here over time that will also help with the
   title="SimpleCluster Sovereign LLM – Bring Your Own Cluster"
   caption="Demo: one SaaS offering, customer-controlled deployment (MSP, cloud account, or sovereign infrastructure)"
 />
+
+Read the scenario: [SimpleCluster: sovereign hosting for your workloads](/docs/showroom/scenarios/simplecluster-sovereign-workloads.md).
+
+For the hands-on steps, follow [Provision a Kubernetes cluster with SimpleCluster](/docs/showroom/tutorials/simplecluster-sovereign-workloads.md).
 
 ### Lifecycle and Installation
 
